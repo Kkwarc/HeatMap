@@ -1,0 +1,8 @@
+train: C:/Users/kwarc/PycharmProjects/ASO_PROJEKT/aso_projekt14/LearningData/train/images
+val: C:/Users/kwarc/PycharmProjects/ASO_PROJEKT/aso_projekt14/LearningData/valid/images
+test: C:/Users/kwarc/PycharmProjects/ASO_PROJEKT/aso_projekt14/LearningData/test/images
+
+nc: 3
+
+# Classes
+names: ['person', 'chair', 'table']
